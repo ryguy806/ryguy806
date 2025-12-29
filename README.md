@@ -2,10 +2,38 @@
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning how to work with NextJS and Go. I finished learning about React/Redux and Typescript for my job.
 - 💞️ I’m looking to collaborate on new projects that allow me to learn new skills and languages. 
-- 📫 How to reach me via email at r.guelzo88@gmail.com.
+- 📫 How to reach me via email at ryanguelzo@gmail.com.
 
-- I currently work for Semper Valens as a Web Application Developer. We are contracted by the Defense Health Agency (DHA) to develop applications for everything from administrative to mental health assistance to disease tracking.
+- I've been doing Software development since 2020, and I've worked on all sorts of platforms. I started creating PWAs for the DHA as a contractor, then I started working on their website, and I finished my work with them creating immersive applications. I've also done some solo work learning how to use current game engines, languages, and frameworks.
 
+- Languages I Know:
+  -  JavaScript
+  - Typescript
+  - Swift
+  - C#
+  - Godot Script
+  - CSS
+  - HTML
+  - HTMX
+  - Python
+
+- Frameworks I've Used:
+  - React/Redux
+  - NextJS
+  - NestJS
+  - Svelte
+  - Django
+  - Flask
+  - WaspJS
+  - .Net
+ 
+- Game Engines I Use:
+  - Unity
+  - Godot
+  - Unreal Engine
+
+- Current Project: Garden Assistant
+- Description: It is a web application for keeping track of plants, events, and locations.
 <!---
 ryguy806/ryguy806 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
