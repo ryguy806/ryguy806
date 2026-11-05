@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering and web application development.
 - 🌱 I’m currently working on projects to add to my portfolio. My current project is a Skip-Bo clone in React.
 - 💞️ I’m looking to collaborate on new projects that allow me to learn new skills and languages. 
-- 📫 How to reach me via email at ryanguelzo@gmail.com or visit my website [Ryan's Portfolia](https://ryguy806.github.io/Portfolio-Page/).
+- 📫 How to reach me via email at ryanguelzo@gmail.com or visit my website [Ryan's Portfolio](https://ryguy806.github.io/Portfolio-Page/).
 
 - I've been doing Software development since 2020, and I've worked on all sorts of platforms. I started creating PWAs for the DHA as a contractor, then I started working on their website, and I finished my work with them creating immersive applications. I've also done some solo work learning how to use current game engines, languages, and frameworks.
 - I worked on a Mission Management tool while working for Praeses. I learned Ruby on Rails in order to assist in building portions of the application.
